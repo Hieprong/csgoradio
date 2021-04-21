@@ -20,6 +20,8 @@ No, but you can press your ingame voice key and "k" afterwards to speak freely a
 You can navigate to the Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg directory and change the line "bind k "voice_inputfromfile 0; voice_loopback 0"" to a key of your choosing. Make sure to save the file before exiting.
 ## I have found a Bug and would like to report it?
 If the bug is repeatable you can report a bug on Github or you can send me a message on Reddit.
+## Why do you use Tkinter or python or do this in that way?
+[This is why](https://i.redd.it/hk54ti5n6tk11.png)
 # Creddits
 Developed by u/Hieprong
 Feedback and Testing by Roter_Oktober and Dietmar_Schwarz
