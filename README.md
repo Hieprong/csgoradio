@@ -1,6 +1,8 @@
 # CsGoRadio
 This program uses a local Telnet server created by the CsGo launch option -netconport to read ingame chat messages. If it detects a message of the format "Your selected Song !play" 
 it will either use the provided youtube link or search youtube for your phrase e.g. "Skyrim main theme !play".
+# Download
+You can download the zipped file here: https://mega.nz/file/GogiEQwS#OfQEszgUEX4zNtFzaPz1RSoNxR2TV1Etcu7B72O8vww
 # How to use this program
 1. Add "-netconport 2121" to your CsGo launch parameters(If you use a diffrent port than 2121 make sure to also change the port in CsGoRadios settings)
 2. Start the CsGoRadio.exe and make sure that the CsGo directory set in the options matches the installation of your game.
