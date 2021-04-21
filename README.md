@@ -25,5 +25,5 @@ If the bug is repeatable you can report a bug on Github or you can send me a mes
 ## Why do you use Tkinter or python or do this in that way?
 [This is why](https://i.redd.it/hk54ti5n6tk11.png)
 # Creddits
-Developed by u/Hieprong
+Developed by u/Hieprong  
 Feedback and Testing by Roter_Oktober and Dietmar_Schwarz
